@@ -2,7 +2,7 @@
 
 > Premium one-page portfolio website for an Aspiring Data Analyst
 
-**Live Site:** https://abhianalyst.github.io/
+**Live Site:** https://abhianalyst.github.io/portfolio/
 
 ---
 
